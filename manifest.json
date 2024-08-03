@@ -1,0 +1,6 @@
+{
+    "name": "My TON Connect App",
+    "description": "My app description",
+    "url": "http://192.168.31.160:8080",
+    "iconUrl": "http://192.168.31.160:8080/icon.png"  // Убедитесь, что иконка доступна по этому URL
+}
